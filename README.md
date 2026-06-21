@@ -51,6 +51,6 @@ The database storage layer is designed in strict compliance with the Third Norma
 
 Click on the player preview below to watch a full video demonstration of the Java application operating and interacting in real-time with the MS SQL Server database:
 
-[![Watch the video](https://www.youtube.com/watch?v=g5h16JCTSrw)
+[![Watch the video](https://img.youtube.com/vi/https://www.youtube.com/watch?v=g5h16JCTSrw/maxresdefault.jpg)](https://www.youtube.com/watch?v=g5h16JCTSrw)
 
 *(If the preview image does not display properly, you can use the direct link: [Watch Demo on YouTube](https://www.youtube.com/watch?v=g5h16JCTSrw))*
