@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/CURSOR.sql" value="abb6261b-b97e-4766-87d0-3e4b7e21cf54" />
+    <file url="file://$PROJECT_DIR$/DELETE.sql" value="abb6261b-b97e-4766-87d0-3e4b7e21cf54" />
+    <file url="file://$PROJECT_DIR$/FUNCTIONS.sql" value="abb6261b-b97e-4766-87d0-3e4b7e21cf54" />
+    <file url="file://$PROJECT_DIR$/INDEXES.sql" value="abb6261b-b97e-4766-87d0-3e4b7e21cf54" />
+    <file url="file://$PROJECT_DIR$/INSERT.sql" value="abb6261b-b97e-4766-87d0-3e4b7e21cf54" />
+    <file url="file://$PROJECT_DIR$/INTEGRITY_CONSTRAINTS.sql" value="abb6261b-b97e-4766-87d0-3e4b7e21cf54" />
+    <file url="file://$PROJECT_DIR$/PROCEDURES.sql" value="abb6261b-b97e-4766-87d0-3e4b7e21cf54" />
+    <file url="file://$PROJECT_DIR$/QUERY.sql" value="abb6261b-b97e-4766-87d0-3e4b7e21cf54" />
+    <file url="file://$PROJECT_DIR$/SETUP.sql" value="abb6261b-b97e-4766-87d0-3e4b7e21cf54" />
+    <file url="file://$PROJECT_DIR$/TRIGGERS.sql" value="abb6261b-b97e-4766-87d0-3e4b7e21cf54" />
+    <file url="file://$PROJECT_DIR$/UPDATE.sql" value="abb6261b-b97e-4766-87d0-3e4b7e21cf54" />
+    <file url="file://$PROJECT_DIR$/VIEW.sql" value="abb6261b-b97e-4766-87d0-3e4b7e21cf54" />
+  </component>
+</project>

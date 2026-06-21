@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../../../../Data for db/step1_infrastructure.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../../../Data for db/step2_performances.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/CURSOR.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/DELETE.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/FUNCTIONS.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/INDEXES.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/INSERT.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/INTEGRITY_CONSTRAINTS.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/PROCEDURES.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/QUERY.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/SETUP.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/TRIGGERS.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/UPDATE.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/VIEW.sql" dialect="TSQL" />
+  </component>
+</project>
