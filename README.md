@@ -17,7 +17,7 @@ The repository is organized into two isolated modules to ensure a clean separati
 
 The database storage layer is designed in strict compliance with the Third Normal Form (3NF) standards, enforcing robust referential integrity (cascading actions) and optimized for high-read performance.
 
-### 📋 SQL Scripts Directory & Execution Order:
+### SQL Scripts Directory & Execution Order:
 
 * **`SETUP.sql`** — Creates the `DancingCompetition` database and deploys the core 10 relational tables (`Country`, `Category`, `Dance`, `Competition`, `Participant`, `Judge`, `Pair`, `Pair_member`, `Performance`, `Score`).
 * **`INTEGRITY_CONSTRAINTS.sql`** — Configures foreign key relationships (`ALTER TABLE ... FOREIGN KEY`) and defines declarative cascading rules (`ON DELETE CASCADE`).
@@ -47,7 +47,7 @@ The database storage layer is designed in strict compliance with the Third Norma
 
 ---
 
-## 📺 Project Walkthrough & Demo (Video)
+## Project Walkthrough & Demo (Video)
 
 Click on the player preview below to watch a full video demonstration of the Java application operating and interacting in real-time with the MS SQL Server database:
 
